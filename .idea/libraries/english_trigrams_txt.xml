@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="english_trigrams.txt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/english_trigrams.txt.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
